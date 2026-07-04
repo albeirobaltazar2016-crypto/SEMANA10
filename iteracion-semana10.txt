@@ -1,0 +1,12 @@
+¿Qué 2 tareas del backlog harías primero?
+1. El reporte de incidencias/daños por parte del ciudadano con foto y ubicación.
+2. El sistema de notificación automática en Telegram para el veedor comunitario.
+
+¿Por qué son las más importantes?
+Porque constituyen el núcleo de la solución (el Producto Mínimo Viable). Sin la capacidad de que el ciudadano registre la denuncia, el sistema no tiene datos con los cuales trabajar; y sin la alerta en Telegram, el veedor no se entera a tiempo para actuar, rompiendo el propósito de la automatización planteada para esta semana.
+
+¿Qué significa para ti que una tarea esté “terminada”? (Definición de Terminado - DoD):
+Para mí significa que la funcionalidad es completamente operativa, estable y cumple con los siguientes 3 criterios:
+1. El flujo funciona de extremo a extremo sin errores en el entorno de desarrollo (Funciona).
+2. Se probó el envío de datos reales y la notificación llegó correctamente a Telegram (Fue probada).
+3. El código limpio y los archivos de configuración (como el flujo de n8n exportado) quedaron guardados en el repositorio de Git (Quedó registrada en Git).

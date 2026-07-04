@@ -1,0 +1,12 @@
+¿Qué evento activa el flujo?
+El evento que activa el flujo (Webhook / Trigger) es la creación de un nuevo reporte de incidencia por parte de un ciudadano en el formulario o sistema web de veeduría.
+
+¿Qué mensaje se enviaría a Telegram?
+Se enviaría el siguiente mensaje: 
+"🚨 ¡Alerta de Veeduría! Se ha registrado un nuevo reporte comunitario. 
+Categoría: [Categoría_Incidencia]
+Detalle: [Breve_Descripción]
+Por favor, ingresar al panel de administración para validar el caso."
+
+¿Qué información no debería enviarse por seguridad?
+Por seguridad y privacidad (datos sensibles), no deben enviarse en la notificación de Telegram: el nombre completo del ciudadano denunciante, su documento de identidad (cédula), su número de teléfono, su correo electrónico, ni contraseñas. Telegram es un canal de notificación pública o comunitaria y esta información sensible debe quedar resguardada únicamente en la base de datos protegida del sistema.

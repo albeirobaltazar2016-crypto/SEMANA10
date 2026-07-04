@@ -1,0 +1,11 @@
+[ALTA PRIORIDAD]
+Como ciudadano quiero reportar un bache o daño en la vía pública con una foto y ubicación para que la veeduría tenga evidencia exacta del problema.
+
+[MEDIA PRIORIDAD]
+Como veedor comunitario quiero recibir una notificación automática en Telegram cada vez que un ciudadano cree un reporte para revisarlo y validarlo rápidamente.
+
+[MEDIA PRIORIDAD]
+Como ciudadano quiero consultar el estado de mi reporte (en revisión, aprobado, solucionado) para saber si las autoridades están respondiendo.
+
+[BAJA PRIORIDAD]
+Como coordinador de la veeduría quiero exportar un resumen mensual de los reportes en PDF para presentarlo en las reuniones con la alcaldía.
